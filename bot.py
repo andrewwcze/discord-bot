@@ -691,4 +691,4 @@ class Music(commands.Cog):
 bot.add_cog(Music(bot))
 bot.add_cog(Commands(bot))
 
-bot.run("NzU3ODU0Njk4NDU4OTcyMTcw.X2mdMA.jjc0YB6GO--iUWWp8uSIJJT4cNA")
+bot.run("TOKEN")
