@@ -365,4 +365,4 @@ asyncio.run(bot.add_cog(Spotify(bot)))
 asyncio.run(bot.add_cog(Management(bot)))
 
 
-bot.run("NzU3ODU0Njk4NDU4OTcyMTcw.X2mdMA.jjc0YB6GO--iUWWp8uSIJJT4cNA")
+bot.run("TOKEN")
